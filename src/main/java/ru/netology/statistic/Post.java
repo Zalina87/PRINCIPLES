@@ -7,10 +7,5 @@ public class Post {
     public String phone;
     public String surname;
     public boolean subscription;
-    public int FormDate;
     public FormDate birthday;
-
-
-    // поле для имени
-
 }
